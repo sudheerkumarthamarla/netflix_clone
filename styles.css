@@ -1,0 +1,62 @@
+@font-face {
+    font-family: netflixFonts;
+    src: url(./fonts/NetflixSans-Regular.otf);
+}
+.button{
+    background-color: red;
+    color:white;
+    padding: 7px 16px;
+    border-radius: 5px;
+    font-size:15px;
+    border-color: red;
+    display: inline;
+    font-family: netflixFonts;
+    font-weight: bold;
+}
+section{
+    margin-top: 30px;
+    margin-right: 10px;
+}
+.button{
+    margin-right: 10px;
+}
+nav{
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.center{
+    width: 80%;
+    font-size:172%;
+    margin-top: 213px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+    
+    
+}
+img{
+    width: 150px;
+    height: 50px;
+    padding-top: 1.6%;
+    padding-left: 14.5%;
+}
+
+body{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url("	https://assets.nflxext.com/ffe/siteui/vlv3/8f12b4f0-a894-4d5b-9c36-5ba391c63fbe/44355e66-dbf8-4dd8-ba6b-8e9e32ec6abd/IN-en-20230320-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+    background-size: fill;
+    
+
+}
+.secondline{
+    margin-top: 0px;
+}
+.lastline{
+    font-size: 23px;
+    margin-top: -3px;
+}
+.para{
+    margin-top: -22px;
+
+}
